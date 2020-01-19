@@ -1,0 +1,16 @@
+export const HANDLE_SIDE_BAR = "HANDLE_SIDE_BAR";
+export const HANDLE_SIDE_CART = "HANDLE_SIDE_CART";
+export const OPEN_CART = "OPEN_CART";
+export const CLOSE_CART = "CLOSE_CART";
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const GET_TOTAL = "GET_TOTAL";
+export const SYNC_STORAGE = "SYNC_STORAGE";
+export const GET_SYNC_STORAGE = "GET_SYNC_STORAGE";
+export const SET_SINGLE_PRODUCT = "SET_SINGLE_PRODUCT";
+export const GET_STORAGE_PRODUCT = "GET_STORAGE_PRODUCT";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const CLEAR_CART = "CLEAR_CART";
+export const HANDLE_CHANGE = "HANDLE_CHANGE";
+export const SORT_DATA = "SORT_DATA";
